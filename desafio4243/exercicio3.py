@@ -4,6 +4,7 @@ qntd_produto = int(input("Informe a quantidade do produto: "))
 preco_produto = float(input("Informe o preço do produto: "))
 
 preco_total = qntd_produto * preco_produto
+preco_total = round(preco_total, 2)
 
 print("O código do produto é: ", codigo)
 print("O nome do produto é: ", nome_produto)
