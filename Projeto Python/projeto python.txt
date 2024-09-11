@@ -8,3 +8,4 @@ https://dadosabertos.mec.gov.br/indicadores-sobre-ensino-superior/item/183-curso
 https://thalitaio.notion.site/Parada-47-6b06a45aa2de441393df7f1f341d7bf0
 https://pandas.pydata.org/
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html
+https://thalitaio.notion.site/Parada-49-ee02381717454e29919cd1c19f90fc63
